@@ -1,0 +1,5 @@
+# README
+
+# Abstract
+
+This project aims at achieving English to French translation with a focus on deep learning methods, beginning with **Recurrent Neural Network (RNN)** and advancing to **Sequence-to-Sequence (Seq2Seq) models**, encompassing transformers. By capitalizing on the extensive bilingual content from the **YouTube Video Subtitles API**, the initiative employs a thorough multi-stage preprocessing regimen post-data extraction, which includes data cleansing, tokenization, and semantic enrichment through **Word2Vec**, coupled with **VecMap** for semantic space alignment across languages. This careful, iterative approach involves rolling out diverse models, finetuning pre-existing models, and conducting comparative assessments to enhance translation precision. By melding cutting-edge neural network frameworks with complex natural language processing tactics, the project aspires to craft highly accurate translation models.
